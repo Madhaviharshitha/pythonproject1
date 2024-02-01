@@ -1,0 +1,4 @@
+colorama
+pywhatkit
+mysql-connector-python
+pymongo
